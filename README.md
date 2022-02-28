@@ -7,4 +7,7 @@
   - ruby
   - c#
   - python
-  - lua ()
+  - lua
+  - html
+  - css
+  - web devolopment langouage (react,vue)
