@@ -5,8 +5,6 @@
   - javascript
   - shell
   - ruby
-  - c#
-  - python
   - lua
   - html
   - css
