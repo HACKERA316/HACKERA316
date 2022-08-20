@@ -8,7 +8,7 @@ hello my name is murat i am a young software developer and web library developer
   - lua
   - html
   - css
-  - web devolopment langouage (react,vue)
+  - web devolopment language (react,vue)
   
   
 
