@@ -4,12 +4,25 @@ hello my name is murat i am a young software developer and web library developer
   - web UI/ux developer
   - software devoloper 
 ### programming languages i know
-  - javascript
-  - shellscript
-  - lua
   - html
   - css
-  - web devolopment language (react,vue)
+  - java && script
+  - coffeescript
+  - typescript
+  - python
+  - php
+  - csharp
+  - lua
+  - web framework
+    - react
+    - vue
+    - next && nuxtJS
+    - flask
+    - asp.net
+    - codeIgniter
+    - exporess
+    -angular %% angularJS
+    
   
   
 ![github](https://github-readme-stats.vercel.app/api?username=HACKERA316&show_icons=true&theme=tokyonight)       
