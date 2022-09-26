@@ -21,7 +21,7 @@ hello my name is murat i am a young software developer and web library developer
     - asp.net
     - codeIgniter
     - exporess
-    -angular %% angularJS
+    -angular && angularjs
     
   
   
