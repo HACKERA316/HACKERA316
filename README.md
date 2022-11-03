@@ -1,5 +1,5 @@
 ## hi i am ably 
-hello my name is murat i am a young software developer and web library developer
+hello my name is murat i am a young software developer, web library developer and hacker script developer 
   - hacker script developer
   - web UI/ux developer
   - software devoloper 
