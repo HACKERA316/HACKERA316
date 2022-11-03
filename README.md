@@ -1,7 +1,7 @@
 ## hi i am ably 
 hello my name is murat i am a young software developer, web library developer and hacker script developer 
   - hacker script developer
-  - web UI/ux developer
+  - web frontend && UI/ux developer
   - software devoloper 
 ### programming languages i know
   - html
