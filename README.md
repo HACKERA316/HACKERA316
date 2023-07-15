@@ -22,7 +22,7 @@ hello my name is murat i am a young software developer, web library developer an
     - codeIgniter
     - exporess
     - react-native
-    -angular && angularjs
+    - angular && angularjs
     
   
   
