@@ -1,6 +1,6 @@
 ## hi i am ably 
 <a align="center" href="https://www.buymeacoffee.com/ablyZ"><img src="https://img.buymeacoffee.com/button-api/?text=Support me to create more be&emoji=☕&slug=ablyZ&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br/>
-hello my name is murat i am a young fullstack and software developer
+hello my name is muhammet i am a fullstack and software developer
 ### programming languages i know
   - java
   - javascript && typescript
