@@ -1,7 +1,7 @@
 ## hi i am ably 
 <a align="center" href="https://www.buymeacoffee.com/ablyZ"><img src="https://img.buymeacoffee.com/button-api/?text=Support me to create more be&emoji=☕&slug=ablyZ&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br/>
 <p align=center>
-<a href="https://app.daily.dev/ably"><img src="https://api.daily.dev/devcards/v2/5VCc5djQV08A918oNHNcU.png?r=2r3&type=wide" width="652" alt="ably's Dev Card"/>
+<a href="https://app.daily.dev/ably"><img src="https://api.daily.dev/devcards/v2/5VCc5djQV08A918oNHNcU.png?r=hk0&type=wide" width="652" alt="ably's Dev Card"/>
 </p>
 
 hello my name is muhammet i am a fullstack and software developer
